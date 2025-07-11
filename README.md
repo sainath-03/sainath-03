@@ -20,8 +20,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainath-03&label=Profile%20views&color=0e75b6&style=flat" alt="sainath-03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainath-03" alt="sainath-03" /></a> </p>
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sainath-03&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="sainath-03" />
+  </a>
+</p>
 - 🌱 I’m currently learning **SpringAI**
 
 - 👨‍💻 All of my projects are available at [https://sainath-03.github.io/Portfolio/](https://sainath-03.github.io/Portfolio/)
